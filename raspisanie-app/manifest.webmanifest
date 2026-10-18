@@ -1,0 +1,17 @@
+{
+  "name": "Моё расписание",
+  "short_name": "Расписание",
+  "description": "Простое расписание дел с временем, повторами и напоминаниями. Работает без интернета.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "lang": "ru",
+  "background_color": "#e6efd2",
+  "theme_color": "#286814",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
